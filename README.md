@@ -21,7 +21,7 @@ This is a API that searchs through the NPI registry by name, NPI number, Texonom
 6. Run betterrx-exercise frontend, e.g. `npm start`
 
 ## Screen Shot
-[![Screen-Shot-2023-05-06-at-4-26-02-PM.png](https://i.postimg.cc/y6Q90Mt6/Screen-Shot-2023-05-06-at-4-26-02-PM.png)](https://postimg.cc/F1S74Bhw)
+[![Screen-Shot-2023-05-06-at-4-29-28-PM.png](https://i.postimg.cc/rmzyTPJg/Screen-Shot-2023-05-06-at-4-29-28-PM.png)](https://postimg.cc/wy8YcFns)
 
 ## Questions
 
