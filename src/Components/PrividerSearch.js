@@ -23,7 +23,6 @@ function ProviderSearch() {
       const errorText = await response.text();
       console.error(`HTTP ${response.status} - ${errorText}`);
       setResults([]);
-      
     }
   }
   
